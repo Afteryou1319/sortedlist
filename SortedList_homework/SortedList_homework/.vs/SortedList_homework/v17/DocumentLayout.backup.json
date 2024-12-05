@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jao A\\source\\repos\\SortedList_homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6EEDD9-29FD-468E-9D4F-5ECE3FA039BC}|SortedList_homework\\SortedList_homework.csproj|c:\\users\\jao a\\source\\repos\\sortedlist_homework\\sortedlist_homework\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6EEDD9-29FD-468E-9D4F-5ECE3FA039BC}|SortedList_homework\\SortedList_homework.csproj|solutionrelative:sortedlist_homework\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6EEDD9-29FD-468E-9D4F-5ECE3FA039BC}|SortedList_homework\\SortedList_homework.csproj|c:\\users\\jao a\\source\\repos\\sortedlist_homework\\sortedlist_homework\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB6EEDD9-29FD-468E-9D4F-5ECE3FA039BC}|SortedList_homework\\SortedList_homework.csproj|solutionrelative:sortedlist_homework\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jao A\\source\\repos\\SortedList_homework\\SortedList_homework\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SortedList_homework\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jao A\\source\\repos\\SortedList_homework\\SortedList_homework\\MainWindow.xaml",
+              "RelativeToolTip": "SortedList_homework\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T12:03:21.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jao A\\source\\repos\\SortedList_homework\\SortedList_homework\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SortedList_homework\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jao A\\source\\repos\\SortedList_homework\\SortedList_homework\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SortedList_homework\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:03:21.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
